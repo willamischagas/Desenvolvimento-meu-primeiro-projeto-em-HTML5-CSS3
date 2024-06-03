@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(30, 59, 59);
+    font-family: 'poppins', sans-serif;
+    font-size: 15px;
+}
+
+main{
+    text-align: center;
+}
+
+.img-ex img{
+    width: 40px;
+    height: 40px;
+}
+
+h1, h2, h3, h4{
+    font-size: 25px;
+    color: #fefdfd;
+}
+
+p{
+    font-weight: 600;
+    color: #fefdfd;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 300px;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+video{
+    width: 280px;
+}
